@@ -48,3 +48,5 @@ dist
 analyze.txt
 storybook-static
 target
+report
+lcov.info
